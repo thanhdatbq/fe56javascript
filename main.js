@@ -1,5 +1,8 @@
 console.log("An nhô");
 
+function themNguoiDung() {
+  console.log("datzero9-2 themNguoiDung");
+}
 // biến trong javascript
 
 var username = "Dat Zero9";
